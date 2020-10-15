@@ -1,2 +1,3 @@
 # atebeestudios
-to download the app
+version 1.0
+fully working game
